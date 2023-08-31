@@ -43,7 +43,7 @@ metadata:
   name: postgres-secret
 type: Opaque
 data:
-  POSTGRES_PASSWORD: cG9zdGdyZXM=
+  POSTGRES_PASSWORD: cG9zdGdyZXM= #postgres 
 
 ---
 apiVersion: v1
